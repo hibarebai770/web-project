@@ -8,9 +8,9 @@ import HomeEmploye from './HomeEmploye';
 import HomeDRH from './HomeDRH';
 import Layout from './Layout';
 import Home from './Home';
-import SoldeConge from './SoldeConge';
-import ListeCongés from './ListeCongés';
-import ModifierDemande from './ModifierDemande';
+import SoldeConge from '../../../../SoldeConge';
+import ListeCongés from '../../../../ListeCongés';
+import ModifierDemande from '../../../../ModifierDemande';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
