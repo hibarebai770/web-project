@@ -30,7 +30,8 @@ décision (validation ou refus ou modification).
 3. Mise à Jour des Soldes de Congés : 
    - Les soldes de congés annuels et maladie sont mis à jour après chaque validation ou refus 
 de demande. 
-   - Les employés peuvent consulter leurs soldes de congés restants. 
+   - Les employés peuvent consulter leurs soldes de congés restants.
+ 
 ***Exigences Techniques***
  - technologies web (React pour le frontend et Node.js pour le back-end).
  - base de données (MongoDB) 
