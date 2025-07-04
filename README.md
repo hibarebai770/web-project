@@ -32,7 +32,7 @@ décision (validation ou refus ou modification).
 de demande. 
    - Les employés peuvent consulter leurs soldes de congés restants. 
 ***Exigences Techniques***
- - technologie web (React pour le frontend et Node.js pour le back-end).
+ - technologies web (React pour le frontend et Node.js pour le back-end).
  - base de données (MongoDB) 
  - L'interface utilisateur est intuitive et facile à utiliser.
 
